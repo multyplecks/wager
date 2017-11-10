@@ -1,0 +1,9 @@
+## Interface: 70200
+## Title: Wager
+## Author: MultyPlecks
+## DefaultState: enabled
+## SavedVariables: GWgrVar
+## SavedVariablesPerCharacter: IWgrVar
+
+Templates.xml
+wager.lua
